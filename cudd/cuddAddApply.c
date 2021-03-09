@@ -45,6 +45,7 @@
 
 #include "util.h"
 #include "cuddInt.h"
+#include <mpi.h>
 
 /*---------------------------------------------------------------------------*/
 /* Constant declarations                                                     */
